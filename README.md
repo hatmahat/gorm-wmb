@@ -6,7 +6,7 @@
     Entity Relationship Diagram for WMB
 </p> 
 <p align="center" width="100%">
-    <img width="100%" src="images/Gorm WMB.png">
+    <img width="100%" src="Gorm WMB.png">
 </p>
 
 # run with flag
